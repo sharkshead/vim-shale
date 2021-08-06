@@ -8,7 +8,7 @@ To install, do
 * vim ~/.vimrc
 * syntax on         (add this line if not already there)
 
-The syntax highlighter recognises shale scripts by the "#!/usr/local/bin/shale" on the ffirst line.
+The syntax highlighter recognises shale scripts by the "#!/usr/local/bin/shale" on the first line.
 It does not use any file name suffixes to recognise shale.
 
 If, for whatever reason, vim has not recognised a shale script then do this command from within vim
