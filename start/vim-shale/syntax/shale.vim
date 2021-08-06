@@ -19,6 +19,7 @@ syntax match   shaleOperator /<=/
 syntax match   shaleOperator /</
 syntax match   shaleOperator /==/
 syntax match   shaleOperator /=/
+syntax match   shaleOperator /&=/
 syntax match   shaleOperator />=/
 syntax match   shaleOperator />/
 syntax match   shaleOperator /++/
