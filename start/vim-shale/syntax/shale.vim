@@ -31,6 +31,7 @@ syntax match   shaleOperator /\^/
 syntax match   shaleOperator /&&/
 syntax match   shaleOperator /||/
 syntax match   shaleOperator /!/
+syntax match   shaleVariable /[a-zA-Z][a-zA-Z0-9_]*/
 syntax match   shaleNumber /[0-9][0-9]*/
 syntax match   shaleNumber /0x[0-9a-f][0-9a-f]*/
 syntax match   shaleComment /#.*/
